@@ -1,6 +1,6 @@
 # lab-01-about-me-quiz
 
-This is an About-Me Quiz built in C# using the Visual Studio IDE. This is to solidify working with C# as a language and getting familiar with the environment. There are a total of 5 questions that the user will experience that explains a little bit more about myself.
+This is an About-Me Quiz built in C# using the Visual Studio IDE. This is to solidify working with C# as a language and getting familiar with the environment. There are a total of 5 questions that the user will experience that explains a little bit more about myself and at the end of the quiz, it will inform the user how many points out of 5 they will get.
 ***
 ## Getting Started
 * Download the Lab-01-About-Me
