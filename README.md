@@ -10,3 +10,4 @@ This is an About-Me Quiz built in C# using the Visual Studio IDE. This is to sol
 ## What it should look like
 ![About-Me-Visual](lab01-visual.PNG)
 
+***
